@@ -15,17 +15,17 @@ Created REST APIs for an authentication system contains :
 
 *Postman screenshot*
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
-Diagram 1 : 
+![Sign up](https://github.com/cyrax21/Avtaar-Assignment-2/blob/main/sign%20in.png)
+Diagram 1 : Sign up 
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
-Diagram 1 : 
+![Sign up password uppercase](https://github.com/cyrax21/Avtaar-Assignment-2/blob/main/password%20uppercase.png)
+Diagram 2 : Sign up password uppercase
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
-Diagram 1 : 
+![Sign out](https://github.com/cyrax21/Avtaar-Assignment-2/blob/main/sign%20out.png)
+Diagram 3 : Sign out 
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
-Diagram 1 : 
+![Sign in](https://github.com/cyrax21/Avtaar-Assignment-2/blob/main/sign%20up.png)
+Diagram 4 : Sign in
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
-Diagram 1 : 
+![Sign up password mismatch](https://github.com/cyrax21/Avtaar-Assignment-2/blob/main/sign%20in%20password%20match.png)
+Diagram 5 : sign up password mismatch
